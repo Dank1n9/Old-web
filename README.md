@@ -4,3 +4,5 @@
 
 新版小站：[点我前往](https://shiorko.dpdns.org)
 
+
+cloud flare已部署
